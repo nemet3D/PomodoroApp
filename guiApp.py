@@ -11,7 +11,7 @@ class App(QWidget):
 
     def __init__(self):
         super().__init__()
-        self.title = 'PyQt5 input dialogs - pythonspot.com'
+        self.title = 'pomodoroApp'
         self.left = 10
         self.top = 10
         self.width = 640
