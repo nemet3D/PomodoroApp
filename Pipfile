@@ -8,8 +8,7 @@ verify_ssl = true
 [packages]
 os = "*"
 pydub = "*"
-pyqt5 = "*"
-fbs = "*"
+PyQt5 = "*"
 
 [requires]
 python_version = "3.7"
